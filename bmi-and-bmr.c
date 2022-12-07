@@ -1,10 +1,9 @@
 
-/*
+/* ================================== 
 Name: KanekiSanGhouls
-Subject: CC-COMPROG11
-EDP CODE: 91557 (LAB) | 91574 (LEC)
-Course & Section: BSIT-1H
-*/
+CC-COMPROG11 91557 (LAB) | 91574 (LEC)
+NOTHING TO SEE HERE [ IGNORE THIS PART]
+==================================*/ 
 
 #include <stdio.h>
 #include <stdlib.h>
